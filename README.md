@@ -2,6 +2,10 @@
 
 > Real-time skill market agent: is your skill growing, dying, or transforming?
 
+
+https://github.com/user-attachments/assets/6b967093-741b-4fcd-b5a6-95d93d3610cd
+
+
 ## Quick Start
 
 ### 1. Add your API key
